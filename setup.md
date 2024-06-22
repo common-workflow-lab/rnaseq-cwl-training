@@ -57,7 +57,7 @@ Create `chr1-star-index.yaml`:
 InputFiles:
   - class: File
     location: rnaseq/reference_data/chr1.fa
-    format: http://edamontology.org/format_1930
+    format: http://edamontology.org/format_1929
 IndexName: 'hg19-chr1-STAR-index'
 Gtf:
   class: File
@@ -155,7 +155,7 @@ Create `chr1-star-index.yaml`:
 InputFiles:
   - class: File
     location: keep:9178fe1b80a08a422dbe02adfd439764+925/reference_data/chr1.fa
-    format: http://edamontology.org/format_1930
+    format: http://edamontology.org/format_1929
 IndexName: 'hg19-chr1-STAR-index'
 Gtf:
   class: File
